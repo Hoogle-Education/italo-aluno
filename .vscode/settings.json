@@ -1,0 +1,9 @@
+{
+  "java.project.sourcePaths": [
+    "herança/src/application",
+    "exceptions/src",
+    "Analisador de String/src/entities",
+    "Analisador de String/src",
+    "herança/src/entities"
+  ]
+}
